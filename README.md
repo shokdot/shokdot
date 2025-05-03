@@ -4,7 +4,7 @@ Hi 👋 My name is Henry Aleksanian
 Software Enginner
 -----------------
 
-In this moment I'm learning for software enginering in myself. Studtying in 42 Yerevan (Ecole 42). I'm also rarely work on Arduino Board, and do some smart things and IOT. />
+In this moment I'm learning for software enginering in myself. Studtying in 42 Yerevan (Ecole 42). I'm also rarely work on Arduino Board, and do some smart things and IoT. />
 
 * 🌍  I'm based in Yerevan, Armenia
 * 🧠  I'm learning C/C++, Computer System Architecture
